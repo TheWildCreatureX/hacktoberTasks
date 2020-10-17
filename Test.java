@@ -2,6 +2,7 @@
 
 class Test{
 public static void main(String[] args){
-System.out.println("Any piece of code");
+int c=3;
+System.out.println("WOrking here bro"+ c);
 }
 }
